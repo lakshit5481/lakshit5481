@@ -13,7 +13,7 @@
 
 I'm **Lakshit Soni** — a Data Science undergraduate passionate about building intelligent systems.
 
-- 🎓 **Currently:** B.Sc. Data Science | Bhilwara, Rajasthan
+- 🎓 **Currently:** B.Tech CSE Data Science | Jaipur, Rajasthan
 - 🏢 **Building:** End-to-end ML pipelines & LLM-powered RAG applications
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1LXCaxQOCfHUA6wgnqI1VfJUe8NEIyVVQ/view?usp=drive_link)
 
@@ -23,7 +23,6 @@ I'm **Lakshit Soni** — a Data Science undergraduate passionate about building 
 
 ## 🧠 About Me
 
-<img align="right" src="https://github.com/lakshit5481/lakshit5481/raw/main/avataaars.png" width="220" alt="Lakshit Soni avatar"/>
 
 Hey, I'm **Lakshit** — a Data Science undergrad from Bhilwara, Rajasthan 🇮🇳, who got hooked on AI the moment a model I trained actually predicted something right.
 

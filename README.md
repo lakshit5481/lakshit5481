@@ -32,7 +32,7 @@ My sweet spot is the intersection of **machine learning**, **data engineering**,
 
 When I'm not deep in a Jupyter notebook or debugging a vector database query, I'm writing about what I learn, exploring open-source projects, or convincing myself that *one more paper* before bed is a great idea. 📄
 
-> *"I'm more charismatic than my code… most of the time. 😄"*
+> ⚡ *"I'm more charismatic than my code… most of the time. 😄"*
 
 <br clear="right"/>
 
@@ -106,4 +106,4 @@ When I'm not deep in a Jupyter notebook or debugging a vector database query, I'
 
 ---
 
-⚡ *Fun fact: I'm more charismatic than my code… most of the time.*
+

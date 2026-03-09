@@ -29,6 +29,9 @@
 <a href="https://instagram.com/lakshit_soni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshit_soni_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/lakshit_soni_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lakshit_soni_/" height="30" width="40" /></a>
   <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lakshit%20Soni&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+  <p align="center">
   <img src="https://github.com/lakshit5481/lakshit5481/raw/main/avataaars.png" width="250" alt="My avatar"/>
 </p>
 </p>
